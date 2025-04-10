@@ -12,17 +12,20 @@ title: Eilinis Andrius
 
 Sveiki atvykę!
 
-Kartkartėmis mane užpuola mintys, primenančios, kad esu tik pilkas žmogelis, rašantis savo istoriją perdžiūvusia šakele pajūrio smėlyje.
-Vėjas nešioja smiltis, bangos nuplauna žodžius — nelieka nieko.
+Nesu rašytojas, neturiu patirties, kaip sudėlioti mintis į rišlią žodžių visumą. Lyg ir žinau, ką noriu pasakyti, bet dažnai jaučiu, kad sakiniai yra lyg detalės iš skirtingų dėlionių. Kad ir kiek jėgos naudoji, jie vis vien tobulai nedera vienas prie kito.
 
-Dažniausiai tokias mintis žmonės veja šalin ir toliau gyvena meluodamas sau, kad yra svarbesni už smėlio smiltelę. Bet man tai ne visada sekasi, o tos pirmos mintys sukelia seniai užslopintas kitų minčių drumzles.
-Kai kurios tų minčių pasenusios, kai kurios bevertės, bet yra ir tokių, kurios šnabžda: užrašyk mane.
+Kartkartėmis mane užklumpa mintis, kad esu tik pilkas žmogelis, rašantis savo istoriją perdžiūvusia šakele pajūrio smėlyje.
+Vėjas pusto smiltis, bangos nuplauna žodžius. Nelieka nieko.
 
-Todėl imu rašyti. Lėtai, tyliai, be tikslų ar gairių.
-Jei pasiseks, sukursiu sau iliuziją, kad po manęs liks ne tik jūros nuplauti pėdsakai ant smėlio.
+Įtariu, kad tokios mintys užpuola daugelį, tačiau protingas žmogus jas kuo greičiau veja šalin. Ir toliau gyvena apgaudinėdami save, kad yra reikšmingesni už smėlio smiltelę. Bet man tai ne visada sekasi. Tyliai sugrįžtančios pirmosios abejonės ima kelti nuo dugno seniai nusistovėjusias minčių drumzles.
+Kai kurios jų — pasenusios, kai kurios — bevertės, bet yra ir tokių, kurios šnabžda: užrašyk mane.
 
-Jei labai pasiseks, tai perskaitys žmogus. Jei seksis mažiau — gal algoritmas, kuriam tušti tekstai po kelerių metų padės gražiau reikšti mintis lietuviškai.
-Bet net jei neperskaitys niekas — man užteks žinoti, kad bandžiau palikti ženklą.
+Todėl imu rašyti. Lėtai, tyliai, be tikslo ar gairių.
+Jei pasiseks — sukursiu sau iliuziją, kad po manęs liks ne tik jūros nuplauti pėdsakai smėlyje.
+
+Mažai tikėtina, bet galbūt šias eilutes perskaitys žmogus. O gal tik dirbtinio intelekto algoritmas.
+Gal po kelerių metų šie, gal kiek paviršutiniški, tekstai padės ChatGPT palikuonims gražiau reikšti mintis lietuviškai.
+Bet net jei niekas jų ir neperskaitys — man užteks žinoti, kad bandžiau palikti ženklą.
 
 Pirmasis įrašas – netrukus.
 
