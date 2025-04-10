@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Pirmasis įrašas"
-date: 2024-04-11 12:00:00 +0300
-categories: mintys
+date: 2025-04-10 15:39:12 +0300
 ---
 
 _(Šis įrašas dar kuriamas.)_
