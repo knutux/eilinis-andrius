@@ -3,6 +3,12 @@ layout: home
 title: Eilinis Andrius
 ---
 
+<p align="center">
+  <img src="/eilinis-andrius/assets/eilinis-andrius.png" alt="Eilinis Andrius" width="200em" style="border-radius: 8px; margin-bottom: 1.5em;" />
+</p>
+
+---
+
 Sveiki atvykę!
 
 Tai mano asmeninis rašinių kampelis. Čia rašysiu apie dirbtinį intelektą, lietuvių kalbą, istoriją, atmintį ir dar šį tą.
