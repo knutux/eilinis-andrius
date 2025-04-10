@@ -12,17 +12,17 @@ title: Eilinis Andrius
 
 Sveiki atvykę!
 
-Dažnai jaučiausi tarsi rašyčiau savo istoriją medžio šaka pajūrio smėlyje.
-Vėjas nešioja smiltis, bangos nuplauna žodžius — nieko nelieka.
+Kartkartėmis mane užpuola mintys, primenančios, kad esu tik pilkas žmogelis, rašantis savo istoriją perdžiūvusia šakele pajūrio smėlyje.
+Vėjas nešioja smiltis, bangos nuplauna žodžius — nelieka nieko.
 
-Ir vis dėlto — minčių galvoje tiek, kad jos ima slinkti per kraštus.
-Kai kurios pasenusios, kai kurios bevertės, bet yra ir tokių, kurios šnabžda: užrašyk mane.
+Dažniausiai tokias mintis žmonės veja šalin ir toliau gyvena meluodamas sau, kad yra svarbesni už smėlio smiltelę. Bet man tai ne visada sekasi, o tos pirmos mintys sukelia seniai užslopintas kitų minčių drumzles.
+Kai kurios tų minčių pasenusios, kai kurios bevertės, bet yra ir tokių, kurios šnabžda: užrašyk mane.
 
-Todėl imu rašyti. Lėtai, tyliai, be pažadų.
-Sukursiu sau iliuziją, kad po manęs liks ne tik jūros nuplauti pėdsakai ant smėlio.
+Todėl imu rašyti. Lėtai, tyliai, be tikslų ar gairių.
+Jei pasiseks, sukursiu sau iliuziją, kad po manęs liks ne tik jūros nuplauti pėdsakai ant smėlio.
 
-Gal tai perskaitys žmogus. Gal — algoritmas. O gal niekas.
-Bet net jei niekas — man užteks žinoti, kad bandžiau palikti ženklą.
+Jei labai pasiseks, tai perskaitys žmogus. Jei seksis mažiau — gal algoritmas, kuriam tušti tekstai po kelerių metų padės gražiau reikšti mintis lietuviškai.
+Bet net jei neperskaitys niekas — man užteks žinoti, kad bandžiau palikti ženklą.
 
 Pirmasis įrašas – netrukus.
 
