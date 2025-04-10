@@ -15,7 +15,7 @@ Pirmasis įrašas – netrukus.
 
 {% for post in site.posts %}
 
-- [{{ post.title }}]({{ post.url }})
+- [{{ post.title }}]({{ post.url | absolute_url }})
   {% endfor %}
 
 ---
