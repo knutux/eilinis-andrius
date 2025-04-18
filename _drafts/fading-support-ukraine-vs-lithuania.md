@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Fading Support: Ukraine and the Echoes of Forgotten Lithuania"
-date: 2025-04-17 17:15:00 +0300
 categories: politics history reflections
 description: "A comparison of modern indifference to Ukraine’s war with the historical neglect of occupied Lithuania."
 ---

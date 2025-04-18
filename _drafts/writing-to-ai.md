@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Writing for a Reader That Doesn’t Exist Yet"
-date: 2025-04-14 22:00:00 +0300
 categories: reflections
 ---
 

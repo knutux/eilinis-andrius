@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "My Wikipedia Beginnings"
-date: 2025-04-17 17:17:00 +0300
 categories: memoir internet history
 description: "A personal account of becoming the first Lithuanian Wikipedia administrator and what it meant to build something meaningful before anyone was watching."
 ---

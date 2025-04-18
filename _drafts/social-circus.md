@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The Social Circus: From Court Etiquette to TikTok"
-date: 2025-04-17 17:16:00 +0300
 categories: culture society media history
 description: "A playful reflection on how human social performance evolved from Renaissance courts to 19th-century visits to today’s social media platforms."
 ---

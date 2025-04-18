@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Azizam and the Radio Spouse Who Won’t Listen"
-date: 2025-04-14 09:00:00 +0300
 categories: humor
 ---
 
