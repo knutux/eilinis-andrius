@@ -1,94 +1,38 @@
 ---
 layout: post
-title: "Azizam and the Radio Spouse Who Won’t Listen"
-categories: humor
+title: "Azizam — pasaka apie radijo meilę ir neištikimybę"
+date: 2025-04-30 16:45:00 +0300
+categories: pasaka nostalgija
+description: "Pasaka apie tai, kaip ištikimiausi radijo klausytojai lieka neišgirsti savo mylimiausios radijo stoties."
 ---
 
-I’ve been with M-1 since 1990. We’ve shared decades of drives, heartbreaks, first jobs, teenage angst, and grown-up grocery trips.
+**Seniai seniai, viename devynaukštyje, gyveno žmogus vardu Andrius.** Jis nebuvo nei karžygys, nei išminčius, tik paprastas žmogus su senais ausinukais ir širdimi, kurioje vis dar tilpo muzika. Kiekvieną rytą jis įsijungdavo M-1 — ne šiaip kokį radiją, o savo senąją draugę, su kuria perėjo visus gyvenimo metų laikus: ir vasaras su „Dynamite“, ir rudenis su „Royksopp“. M-1 jam buvo kaip ištikima bičiulė, kuri žinojo, kada reikia paguosti, o kada — pakelti nuotaiką.
 
-Then _“Azizam”_ entered my life — a song so catchy, so tender, it parked itself in my brain like a cat that refuses to leave.
+**Ir štai vieną vakarą, netyčia klausydamasis BBC per telefoną, jis ją išgirdo.** Ne ją, o _JĄ_. Dainą. Su persiškais šnabždesiais, su Ed Sheeran balsu, su žodžiais, kurie kabinosi prie širdies kaip šlapias lapas prie bato. _Azizam._
 
-But my lifelong musical partner, M-1, acted like it didn’t exist. Like I was imagining things.  
-**Gaslighted by FM waves.**
+„Kas tai?“ — sušnabždėjo jis, sustabdęs kvėpavimą. Daina baigėsi, bet ji jau skambėjo jo galvoje. Visą naktį.
 
----
+**Kitą rytą jis įjungė M-1.** Laukė. Tikėjosi. Juk jei BBC jau groja, M-1 greitai pasivys, ar ne? Bet nieko. Tik Dua Lipa. Ir vėl Calvin Harris. Ir dar kartą tas pats Post Malone.
 
-**The Emotional Spiral**
+Jis balsavo svetainėje. Siuntė žinutę. Bandė per top 40 išrinkimus. _Tyla._
 
-BBC? Playing it.  
-All the cool charts? It’s climbing.  
-Spotify? Millions of plays.
+**Vieną vakarą jis įlipo į automobilį ir iš nuovargio perjungė stotį.** Tik trumpam. Tik pažiūrėti. Ir ten — _Azizam_. Per RadioCentras. Su klausytojų komentarais, su emocija, su garsu.
 
-M-1? Nothing.  
-Just the same loop of Dua Lipa and that Calvin Harris track I’ve now heard more often than my kids’ voices.
+Jis tylėjo. Bet viduje — sprogo. Kaip tu, M-1, manęs negirdi, kai net konkurentas supranta?
 
----
+**Jis grįžo namo susivėlęs. Bandė apsimesti, kad nieko nebuvo.** Įsijungė M-1. Bet ausyse vis dar skambėjo _Azizam_.
 
-**Who Even Is This “Azizam”?**
+Tą vakarą vaikas, žiūrėdamas „YouTube Shorts“, paklausė:
+— Tėti, tu gi gali pats įsijungti dainą, kam tau tas radijas?
+— Ne taip paprasta, — atsiduso tėtis. — Su M-1 mes kartu jau trisdešimt metų.
 
-It had Ed’s voice — I recognized it immediately, like hearing an old friend say something new.
+**Jis nesiskyrė.** Bet vis dažniau paslapčia pasijungdavo kitur. Kartais LRT Klasika. Kartais BBC. Ir vis dar RadioCentras, tik tyliai, niekam nesakant.
 
-The chorus (_“Be mine. Be mine. Azizam”_) wrapped itself around my neurons with silken Persian syllables I didn’t even know I needed.
+Ir jei vieną dieną M-1 pagaliau sugrojo _Azizam_, jis jau stovėjo prie lango, tyliai šypsodamasis.
 
----
+_Bet širdyje žinojo: tai buvo per vėlu._
 
-**Ironic Timing and Cosmic Jokes**
-
-Mid-rant, I get into my car. Hit “seek.”
-
-Land on **RadioCentras** — M-1’s greatest rival. The one you’re not even allowed to think about.
-
-And guess what? _Azizam_ is playing. Callers voted it their current hit.  
-They played it. Loud and proud.
-
-M-1, darling… **RadioCentras sees me**. Why don’t you?
-
----
-
-**The Threat of Musical Infidelity**
-
-I’m not saying I’ll leave M-1. But I’m... wandering emotionally.
-
-I’ve started listening to **LRT Klasika**. Even flirted with **BBC Radio 1**.
-
-RadioCentras?  
-That was a moment of weakness.  
-A one-night tune-in. I swear.
-
----
-
-**The Absurd Possibility**
-
-If M-1 _does_ start playing it, I’ll have to pretend I didn’t hear it first on another station.
-
-Or maybe I’ll smugly whisper, _“I loved it before it was cool,”_  
-while driving past their studio with the windows down.
-
----
-
-**The Relationship Metaphor that Became Too Real**
-
-I feel like a spouse being ignored mid-obsession.
-
-_“Honey, I need to talk about this Azizam thing.”_
-
-_“Not now, we’re playing Post Malone again.”_
-
-Classic.
-
----
-
-**Closing Thought**
-
-M-1, I still love you. I really do.  
-But next time I fall head over heels for a song…
-
-**Just meet me halfway.**  
-Or at least hum it back.
-
----
-
-**My Love, The Radio**
+**Mano radijo stotie**
 
 Išklausau visas kalbas  
 Ir keistos prasmės laidas,  
@@ -108,28 +52,3 @@ Pabandyk tik neklausyti,
 Ką nors kvailo padaryti,
 Aš pabėgusių pas kitas
 ...
-
-My love, you are so true,
-So pure, so ever new.
-I promise I won’t cheat or stray,
-You have my ears all night and day.
-
-But dare to play one awful track,
-Some brainless noise — I might turn back.
-I'll flirt with others on the dial,
-Though I'll return in just a while.
-
-One ear turned, I face the screen,
-Still I hear you in between.
-Don’t be mad if I seem cold —
-You’re background gold, or so I'm told.
-
-I endure your awkward shows,
-Nonsense news and endless flows.
-I survive your late-night hosts —
-Just play the hits I love the most.
-
-Yes, I’m loyal, yes, I stay,
-Even when you lose your way.
-But please, don’t test my tired soul —
-Play that one song. Make me whole.
