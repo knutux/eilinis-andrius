@@ -6,11 +6,15 @@ categories: pasaka nostalgija
 description: "Pasaka apie tai, kaip ištikimiausi radijo klausytojai lieka neišgirsti savo mylimiausios radijo stoties."
 ---
 
-**Seniai seniai**, viename Fabijoniškių en-iolikaukštyje, gyveno žmogus labai retu vardu, kurio nebepamena niekas. Jis nebuvo nei karžygys, nei išminčius, o tik paprastas žmogelis su senais, pageltusiai ausinukais ir širdimi, kuri vis dar plakė pop muzikos ritmu.
-Kiekvieną rytą jis įsijungdavo M-1 - ne šiaip kokį radiją, o savo senąją draugę, su kuria perėjo visus gyvenimo etapus. Ši stotis jį lydėjo paauglystėje, grodama su Madonna bei Eurythmics. Jaunystėje pirmojoje mašinoje padėjo plyšauti AHA "Velvet", o taip pat patyliukais niūniuoti Britney Spears. Žylant ir plinkant M-1 padėjo užsimiršti klausant Taylor Swift ar Dua Lipa.
-Tai buvo ne šiaip radijo stotis, bet ištikima bičiulė, kuri visada žinojo, kada reikia paguosti, o kada — pakelti nuotaiką.
+**Seniai seniai**, viename Fabijoniškių en-iolikaukštyje, gyveno žmogus labai retu vardu, kurio nebepamena niekas. Jis nebuvo nei karžygys, nei išminčius — tik paprastas žmogelis su senais, pageltusiais ausinukais ir širdimi, kuri vis dar plakė popmuzikos ritmu.
+Kiekvieną rytą jis įsijungdavo M-1 — ne šiaip kokį radiją, o savo senąją draugę, su kuria perėjo visus gyvenimo etapus.
+Ši stotis jį lydėjo paauglystėje, kai grojo Madonna ir Eurythmics, jaunystėje — kai pirmojoje mašinoje padėjo plyšauti pagal A-ha „Velvet“ ir patyliukais niūniuoti Britney Spears.
+O vėliau, kai žilo ir pliko, M-1 padėdavo užsimiršti su Taylor Swift ar Dua Lipa.
+Tai nebuvo _šiaip_ radijo stotis, tai buvo ištikima bičiulė, kuri visada žinojo, kada reikia paguosti, o kada — pakelti nuotaiką.
 
-**Ir štai vieną vakarą**, atsitiktinai perjungęs erdvaus šeimyninio automobilio radiją į BBC grojaraštyje, jis išgirdo ją. Net ne ją, o _JĄ_. Dainą. Su persiškais šnabždesiais, su Ed Sheeran balsu, su ritmu, kuris užbūrė širdį egzotišku skambesiu ir privertė linguoti seną žilą galvą. _Azizam._
+**Ir štai vieną vakarą**, atsitiktinai perjungęs šeimyninio automobilio radiją į BBC grojaraštį, jis ją išgirdo. _JĄ_. Dainą. Su persiškais šnabždesiais, su Ed Sheerano balsu, su ritmu, kuris užbūrė širdį egzotišku skambesiu ir privertė linguoti seną žilą galvą. _Azizam._
+
+TBD
 
 „Kas tai?“ — sušnabždėjo jis, sustabdęs kvėpavimą. Daina baigėsi, bet ji jau skambėjo jo galvoje. Visą naktį. Ryte dar kartą per „YouTube“, vėl vakare. Milijonai peržiūrų „Spotify“. Visi topai Europoje? Kopia. Jo galvoje? Įsirėžė visam savaitgaliui. Priedainis — _„Be mine. Be mine. Azizam“_ — įsipynė tarp nervų galūnių su tokia švelnia rytietiška jėga, kad net sapnuose jis ją niūniavo.
 
