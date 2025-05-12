@@ -20,7 +20,7 @@ Su persiškais šnabždesiais, su Ed Sheerano balsu, su ritmu, kuris užbūrė �
 🎧 _Azizam_.
 
 „Kas tai?“ — sušnabždėjo jis, sulaikęs kvėpavimą.
-Daina greitai baigėsi, bet tų kelių akimirkų užteko, kad ji užstrigtų galvoje, kad jis pajustų kažką, ko ilgai nejautė — kad pasaulyje dar yra dainų, kurios ne tik skamba, bet ir kvėpuoja.
+Daina greitai baigėsi, bet tų kelių akimirkų užteko, kad ji užstrigtų galvoje, kad jis pajustų kažką, ko ilgai nejautė — kad pasaulyje dar yra dainų, kurios ne tik skamba, bet ir virpina širdį.
 ⌛ Visą popietę.
 ⌛ Kitą rytą.
 ⌛ Per pietus.
@@ -32,16 +32,20 @@ Deja, nieko.
 😢 Tik Džesika Shy, Lady Gaga bei senstantis Calvin Harris.
 
 Gal nieko tokio — juk tik prieš kelias dienas sustyguota dainelė, galėjo ir nepastebėti. Tad nuėjo žmogelis prie M-1 skelbimų lentos pasitikrinti.
-Peržvelgė „Šią savaitę mes grojame“ skelbimą ir pasaulis prašviesėjo — tarp įprastų vardų jis pamatė Edo Sheerano pavardę — tarsi pažadą, kad M-1 vis dar jį prisimena.
+Peržvelgė „Šią savaitę mes grojame“ skelbimą ir pasaulis prašviesėjo — tarp įprastų vardų jis pamatė Edo Sheerano pavardę — tarsi patvirtinimą, kad M-1 vis dar jį prisimena.
 Reiškia, jau tuoj tuoj turi groti.
-Įrašė laiške savo balsą į „Top 40“ rinkimus, įmetė į čia pat prikaltą, ne pirmos jaunystės, pašto dėžutę ir nulėkė namo.
+Įrašė laiške savo balsą į „Top 40“ rinkimus, įmetė į čia pat prikaltą ne pirmos jaunystės pašto dėžutę ir nulėkė namo.
 Įsijungė savo stotį ir laukė.
+
+Laukė visą savaitę.  
+Klausėsi reklamos, prognozių, pusrytinio šurmulio ir net senų anekdotų, tikėdamasis atpažinti pirmus _Azizam_ akordus.  
+Bet nieko.
 
 **Vieną rytą vežė jis vežimu vaikus į mokyklą ir netyčia perjungė stotį.** Kaip tyčia, Zip kažkas groja _Azizam_. Parveždamas vaikus iš mokyklos išsipasakojo vaikams, tai tie irgi pabandė perjungti stotį.
 Ir ką gi?
 🤯 Vėl _Azizam_.
 
-**Kitą dieną nusprendė, kad radijo grotuvas nebeveikia.** Betikrindamas sukiojo rankenėlę ir užtaikė ant RadioCentro bangos. Kitomis aplinkybėmis būtų iškart perjungęs — juk tai savo stoties išdavystė.  
+**Kitą dieną nusprendė, kad radijo grotuvas nebeveikia.** Betikrindamas sukiojo rankenėlę ir užtaikė ant RadioCentro bangos. Kitomis aplinkybėmis būtų iškart perjungęs. kur tai matyta — begėdiška ir neatleidžiama išdavystė.  
 Bet negalėjo. Kaip tik tuo metu vyko negirdėta rubrika „Hitas šmitas“, kurioje kovojo Edas Sheeranas prieš Miley Cyrus.  
 Ir klausytojai išrinko.
 🤯 _Azizam_.
@@ -53,11 +57,12 @@ Sekmadienį pražiopsojo Top 40, tad neišgirdo 6 vietoje atsidūrusios naujieno
 Ėjo dienos, bet M-1 liko nebyli. Gal iš principo, gal iš užsispyrimo, o gal dėl to, kad programų direktoriui nepatiko vaizdo klipas, kuriame visi vyrai bučiuoja Ed Sheeran.
 
 **Akys — įsmeigtos į radijo grotuvą,** dažnis preciziškai nustatytas. Nebesitraukė jis nuo radijo imtuvo nei dieną, nei naktį.
-Vieną rytą jis tiesiog...
+O vieną rytą jis tiesiog...
 dingo...
 Lyg išjungtas radijo imtuvas.
+
 Niekas nežino nei kaip, nei kur.
 Tačiau žmonės kalba.
-Dar ir dabar šneka, kad gerai įsiklausius, kažkur M-1 transliacijos fone, galima išgirsti tylų šnabsdesį:
+Dar ir dabar šneka, kad gerai įsiklausius, kažkur M-1 transliacijos fone, galima išgirsti tylų šnabšdesį:
 
 🎧 _„Be mine. Be mine. Azizam“_
