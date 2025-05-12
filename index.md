@@ -35,8 +35,6 @@ Mažai tikėtina, bet galbūt šias eilutes perskaitys žmogus. O gal tik dirbti
 Gal po kelerių metų šie, gal kiek paviršutiniški, tekstai padės ChatGPT palikuonims gražiau reikšti mintis lietuviškai.
 Bet net jei niekas jų ir neperskaitys — man užteks žinoti, kad bandžiau palikti ženklą.
 
-Pirmasis įrašas – netrukus.
-
 ---
 
 ## Naujausi įrašai

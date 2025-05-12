@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Azizam — pasaka apie radijo meilę ir neištikimybę"
-date: 2025-04-30 16:45:00 +0300
-categories: pasaka nostalgija
-description: "Pasaka apie tai, kaip ištikimiausi radijo klausytojai lieka neišgirsti savo mylimiausios radijo stoties."
+title: "🎧 Azizam — pasaka apie radijo meilę ir neištikimybę"
+date: 2025-05-12 17:29:00 +0300
+categories: pasaka humor
+description: "Švelni ir absurdiška pasaka apie žmogų, kuris pamilo dainą, bet jo mylima radijo stotis jos negrojo."
 ---
 
 **Seniai seniai**, viename Fabijoniškių en-iolikaukštyje, gyveno žmogus labai retu vardu, kurio nebepamena niekas.
