@@ -6,53 +6,58 @@ categories: pasaka nostalgija
 description: "Pasaka apie tai, kaip ištikimiausi radijo klausytojai lieka neišgirsti savo mylimiausios radijo stoties."
 ---
 
-**Seniai seniai**, viename Fabijoniškių en-iolikaukštyje, gyveno žmogus labai retu vardu, kurio nebepamena niekas. Jis nebuvo nei karžygys, nei išminčius — tik paprastas žmogelis su senais, pageltusiais ausinukais ir širdimi, kuri vis dar plakė popmuzikos ritmu.
+**Seniai seniai**, viename Fabijoniškių en-iolikaukštyje, gyveno žmogus labai retu vardu, kurio nebepamena niekas.
+Jis nebuvo nei karžygys, nei išminčius — tik paprastas žmogelis su senais, pageltusiais ausinukais ir širdimi, kuri vis dar plakė popmuzikos ritmu.
 Kiekvieną rytą jis įsijungdavo M-1 — ne šiaip kokį radiją, o savo senąją draugę, su kuria perėjo visus gyvenimo etapus.
 Ši stotis jį lydėjo paauglystėje, kai grojo Madonna ir Eurythmics, jaunystėje — kai pirmojoje mašinoje padėjo plyšauti pagal A-ha „Velvet“ ir patyliukais niūniuoti Britney Spears.
 O vėliau, kai žilo ir pliko, M-1 padėdavo užsimiršti su Taylor Swift ar Dua Lipa.
 Tai nebuvo _šiaip_ radijo stotis, tai buvo ištikima bičiulė, kuri visada žinojo, kada reikia paguosti, o kada — pakelti nuotaiką.
 
-**Ir štai vieną vakarą**, atsitiktinai perjungęs šeimyninio automobilio radiją į BBC grojaraštį, jis ją išgirdo. _JĄ_. Dainą. Su persiškais šnabždesiais, su Ed Sheerano balsu, su ritmu, kuris užbūrė širdį egzotišku skambesiu ir privertė linguoti seną žilą galvą. _Azizam._
+**Ir štai vieną vakarą**, atsitiktinai perjungęs šeimyninio automobilio radiją į BBC grojaraštį, jis ją išgirdo.
+🎧 _JĄ_.
+🎧 Dainą.
+Su persiškais šnabždesiais, su Ed Sheerano balsu, su ritmu, kuris užbūrė širdį egzotišku skambesiu ir privertė linguoti seną žilą galvą.
+🎧 _Azizam_.
 
-TBD
+„Kas tai?“ — sušnabždėjo jis, sulaikęs kvėpavimą.
+Daina greitai baigėsi, bet tų kelių akimirkų užteko, kad ji užstrigtų galvoje, kad jis pajustų kažką, ko ilgai nejautė — kad pasaulyje dar yra dainų, kurios ne tik skamba, bet ir kvėpuoja.
+⌛ Visą popietę.
+⌛ Kitą rytą.
+⌛ Per pietus.
+Priedainis — 🎧 _„Be mine. Be mine. Azizam“_ — taip prilipo savo švelnia rytietiška jėga, kad jis net knarkti pradėjo pagal melodiją.
 
-„Kas tai?“ — sušnabždėjo jis, sustabdęs kvėpavimą. Daina baigėsi, bet ji jau skambėjo jo galvoje. Visą naktį. Ryte dar kartą per „YouTube“, vėl vakare. Milijonai peržiūrų „Spotify“. Visi topai Europoje? Kopia. Jo galvoje? Įsirėžė visam savaitgaliui. Priedainis — _„Be mine. Be mine. Azizam“_ — įsipynė tarp nervų galūnių su tokia švelnia rytietiška jėga, kad net sapnuose jis ją niūniavo.
+**Kitą rytą jis įjungė M-1.** Tikėjosi.
+Juk jei BBC jau groja, milijonai perklausų „Spotify“, milijonai peržiūrų „YouTube“. Pažangi radijo stotis juk būtinai šoks ant populiarumo bangos.
+Deja, nieko.
+😢 Tik Džesika Shy, Lady Gaga bei senstantis Calvin Harris.
 
-**Kitą rytą jis įjungė M-1.** Tikėjosi. Juk jei BBC jau groja, jei „Spotify“ dūzgia, jei Top40 sąraše — šeštoje vietoje, M-1 tikrai neatsiliks, ar ne? Bet nieko. Tik Dua Lipa. Ir vėl Calvin Harris. Ir dar kartą tas pats Post Malone.
+Gal nieko tokio — juk tik prieš kelias dienas sustyguota dainelė, galėjo ir nepastebėti. Tad nuėjo žmogelis prie M-1 skelbimų lentos pasitikrinti.
+Peržvelgė „Šią savaitę mes grojame“ skelbimą ir pasaulis prašviesėjo — tarp įprastų vardų jis pamatė Edo Sheerano pavardę — tarsi pažadą, kad M-1 vis dar jį prisimena.
+Reiškia, jau tuoj tuoj turi groti.
+Įrašė laiške savo balsą į „Top 40“ rinkimus, įmetė į čia pat prikaltą, ne pirmos jaunystės, pašto dėžutę ir nulėkė namo.
+Įsijungė savo stotį ir laukė.
 
-Jis balsavo svetainėje. Spaudė mygtukus. Siuntė žinutę. Laukė kitos savaitės. Top40? _Azizam_ smuktelėjo į 10 vietą. M-1? Vis dar tyli.
+**Vieną rytą vežė jis vežimu vaikus į mokyklą ir netyčia perjungė stotį.** Kaip tyčia, Zip kažkas groja _Azizam_. Parveždamas vaikus iš mokyklos išsipasakojo vaikams, tai tie irgi pabandė perjungti stotį.
+Ir ką gi?
+🤯 Vėl _Azizam_.
 
-**Vieną vakarą jis įlipo į automobilį ir iš nuovargio perjungė stotį.** Tik trumpam. Tik pažiūrėti. Ir ten — _Azizam_. Per RadioCentras. Su klausytojų komentarais, su emocija, su garsu.
+**Kitą dieną nusprendė, kad radijo grotuvas nebeveikia.** Betikrindamas sukiojo rankenėlę ir užtaikė ant RadioCentro bangos. Kitomis aplinkybėmis būtų iškart perjungęs — juk tai savo stoties išdavystė.  
+Bet negalėjo. Kaip tik tuo metu vyko negirdėta rubrika „Hitas šmitas“, kurioje kovojo Edas Sheeranas prieš Miley Cyrus.  
+Ir klausytojai išrinko.
+🤯 _Azizam_.
 
-Jis tylėjo. Bet viduje — sprogo. Kaip tu, M-1, manęs negirdi, kai net konkurentas supranta?
+Jis tylėjo. Bet viduje — virė. Kaip tu, M-1, manęs negirdi, kol konkurentai flirtuoja ir vilioja?
 
-**Jis grįžo namo susivėlęs. Bandė apsimesti, kad nieko nebuvo.** Įsijungė M-1. Bet ausyse vis dar skambėjo _Azizam_.
+**Jis bandė apsimesti, kad nieko nebuvo.** Kasdien įjungdavo M-1, viltingai laukdamas _Azizam_.
+Sekmadienį pražiopsojo Top 40, tad neišgirdo 6 vietoje atsidūrusios naujienos.
+Ėjo dienos, bet M-1 liko nebyli. Gal iš principo, gal iš užsispyrimo, o gal dėl to, kad programų direktoriui nepatiko vaizdo klipas, kuriame visi vyrai bučiuoja Ed Sheeran.
 
-Tą vakarą vaikas, žiūrėdamas „YouTube Shorts“, paklausė:
-— Tėti, tu gi gali pats įsijungti dainą, kam tau tas radijas?
-— Ne taip paprasta, — atsiduso tėtis. — Su M-1 mes kartu jau trisdešimt metų.
+**Akys — įsmeigtos į radijo grotuvą,** dažnis preciziškai nustatytas. Nebesitraukė jis nuo radijo imtuvo nei dieną, nei naktį.
+Vieną rytą jis tiesiog...
+dingo...
+Lyg išjungtas radijo imtuvas.
+Niekas nežino nei kaip, nei kur.
+Tačiau žmonės kalba.
+Dar ir dabar šneka, kad gerai įsiklausius, kažkur M-1 transliacijos fone, galima išgirsti tylų šnabsdesį:
 
-**Jis nesiskyrė.** Bet vis dažniau paslapčia pasijungdavo kitur. Kartais LRT Klasika. Kartais BBC. Ir vis dar RadioCentras, tik tyliai, niekam nesakant.
-
-_Ir nors Azizam vis dar skamba jo ausinėse, M-1 lieka nebyli. Gal iš principo. Gal iš užsispyrimo. O gal iš to senamadiško įpročio nežinoti, kas šiuo metu iš tikro svarbu._
-
-**Mano radijo stotie**
-
-Išklausau visas kalbas  
-Ir keistos prasmės laidas,  
-Iškenčiu visus šlamštus —  
-Tik pagrokit man hitus.
-
-Vieną ausį gal nusukęs,
-į ekraną atsisukęs,
-Išklausau visad tavęs
-Pykt nereikia ant manęs
-
-Mano meile, tu tikra
-Neapsakomai tyra.
-Nepaliksiu, neišduosiu,
-Tau save aš dovanosiu.
-Pabandyk tik neklausyti,
-Ką nors kvailo padaryti,
-Aš pabėgusių pas kitas
-...
+🎧 _„Be mine. Be mine. Azizam“_
