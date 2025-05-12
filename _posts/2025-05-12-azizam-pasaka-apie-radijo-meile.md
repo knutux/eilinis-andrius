@@ -2,7 +2,7 @@
 layout: post
 title: "🎧 Azizam — pasaka apie radijo meilę ir neištikimybę"
 date: 2025-05-12 17:29:00 +0300
-categories: pasaka humor
+categories: pasakos
 description: "Švelni ir absurdiška pasaka apie žmogų, kuris pamilo dainą, bet jo mylima radijo stotis jos negrojo."
 ---
 
