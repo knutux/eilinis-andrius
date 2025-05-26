@@ -8,116 +8,118 @@ description: "Netflix laiko kelionių eksperimentas, kuris netyčia ištrina pat
 
 Tai pirmas mano bandymas apsimesti kino kritiku, rašant trumpą neseniai pažiūrėto filmo įvertinimą. Norėjosi užfiksuoti šiek tiek atvėsusius, bet dar šiltus įspūdžius.
 
-**Time Cut** - naujas „Netflix“ bandymas atkartoti _Back to the Future_ sėkmę.
-Tiesa, pagrindinis panašumas tik tas, kad paauglys netyčia nukeliauja į netolimą praeitį.
-O ten jau nusprendžia žaisti dievą manipuliuodamas laiko tėkme.
+**Time Cut** - naujas „Netflix“ bandymas atkartoti _Back to the Future_ sėkmę.  
+Tiesa, pagrindinis panašumas tik tas, kad paauglys netyčia nukeliauja į netolimą praeitį.  
+O ten jau nusprendžia žaisti dievą, manipuliuodamas laiko tėkme.  
 Bet čia panašumai ir baigiasi.
 
-Negalėčiau pasakyti, kad man nepatiko.
-Norėjosi pažiūrėti, kuo viskas baigsis, o tai jau visai neblogas įvertinimas.
+Negalėčiau pasakyti, kad man nepatiko.  
+Norėjosi pažiūrėti, kuo viskas baigsis - o tai jau visai neblogas įvertinimas.  
 Mano šuo tikrai nepadėkotų, kad dėl tos pabaigos teko atidėti vakarinį pasitrainiojimą.
 
-Žodžiu, užskaitau kaip pramoginį filmą šeimai.
-Bet šiek tiek ir patyrinėsiu detales, išryškindamas man kliuvusius siužeto ir logikos šleivumus.
+Žodžiu, užskaitau kaip pramoginį filmą šeimai.  
+Bet šiek tiek patyrinėsiu detales, išryškindamas man kliuvusius siužeto ir logikos šleivumus.
 
 ## Pozityvas
 
 ### Pagrindinė idėja
 
-Kelionė laiku ne iš smalsumo, bet ieškant savęs.
-Bandymas užpildyti vidinę tuštumą, pateisinti savo gyvenimą.
-Neakcentuojamos teorinės liko keliavimo pasekmės, bet labiau etiniai pasirinkimai.
-Nuoširdus skausmas, žmogiškos dvejonės, kai negali nuspręsti, ar rizikouti keisti įvykių tėkmę.
+Kelionė laiku ne iš smalsumo, o ieškant savęs.  
+Bandymas užpildyti vidinę tuštumą, pateisinti savo gyvenimą.  
+Neakcentuojamos teorinės laiko keliavimo pasekmės, bet labiau etiniai pasirinkimai.  
+Nuoširdus skausmas, žmogiškos dvejonės, kai negali nuspręsti, ar rizikuoti keičiant įvykių tėkmę.
 
 ### Pagrindinė veikėja
 
-Liusę vaidinanti Madison Bailey, Netflix žiūrovams pažįstama iš "Outer Banks" serialo, pasirinkta taikliai.
-Kaip ir įprasta Netflix gaminiams, ji neturėjo daug erdvės atsiskleisti.
-Bet mėgėjo akimis man jos vaidyba pasirodė profesionali. Ne pasaulinio garso talentas, bet gana įtikinama paauglė.
-Ne ta paauglė, kuri bailiai prie visų taikosi, bet tokia, kuri nebijo pakovoti už save ir kitus, net jei tai gali būti pavojinga.
+Liusę vaidinanti Madison Bailey, Netflix žiūrovams pažįstama iš "Outer Banks" serialo, pasirinkta taikliai.  
+Kaip ir įprasta Netflix gaminiams, ji neturėjo daug erdvės atsiskleisti.  
+Bet mėgėjo akimis man jos vaidyba pasirodė profesionali - ne pasaulinio garso talentas, bet gana įtikinama paauglė.  
+Ne ta paauglė, kuri bailiai prie visų taikosi, o tokia, kuri nebijo pakovoti už save ir kitus, net jei tai gali būti pavojinga.
 
 ### Antraplaniai personažai
 
-Antonia Gentry (žinoma iš "Ginny & Georgia"), vaidinanti Liusės nepažintą sesę Summer, taip pat atidirbo savo atlyginimą.
-Tipiškai netipišką moksliuką Kviną vaidinęs Griffin Gluck ("Tall Girl") nesužibėjo, bet daugumoje vietų ir netrukdė.
-Kiti aktoriai rodėsi tik epizodiškai, tad nelabai yra ką ir išskirti.
-Nebent tik vėžlį, kuris pasirodo ir ateityje, ir praeityje - jis vaidino nepriekaištingai.
+Antonia Gentry (žinoma iš "Ginny & Georgia"), vaidinanti Liusės nepažintą sesę Summer, taip pat atidirbo savo atlyginimą.  
+Tipiškai netipišką moksliuką Kviną vaidinęs Griffin Gluck ("Tall Girl") nesužibėjo, bet daugumoje vietų ir netrukdė.  
+Kiti aktoriai rodėsi tik epizodiškai, tad nelabai yra ką išskirti.  
+Nebent vėžlį, kuris matomas tiek ateityje, tiek praeityje - jis vaidino nepriekaištingai.
 
 ### Bendras vaizdas
 
-Specialiesiems efektams pinigų pagailėta, bet jei pagrindinis prioritetas buvo atskleisti vidinius išgyvenimus, gal tai ir pateisinama.
-Garažinis laiko mašinos surinkimas su šviesos burbulu - paprastas, bet veikia.
-Kai kurios scenos atrodo beveik tikros, gal tik spalvų kiek per daug.
-Turbūt taip bandyta parodyti laikmečio skirtumus, bet apie tai vėliau.
+Specialiesiems efektams pinigų pagailėta, bet jei pagrindinis prioritetas buvo atskleisti vidinius išgyvenimus, tai pateisinama.  
+Garažinis laiko mašinos surinkimas su šviesos burbulu - paprastas, bet veikia.  
+Kai kurios scenos atrodo beveik tikros, gal tik spalvų kiek per daug.  
+Turbūt taip bandyta parodyti laikmečio skirtumus - apie tai plačiau šiek tiek vėliau.
 
 ### Garso takelis
 
-Filmo metu bent keletą kartų ausis užkliuvo už nostalgiškai pažįstamų melodijų.
-Nesu tikras, ar tos dainos tikrai iš 2003-ių metų, bet tikrai šiek tiek padėjo nepamiršti, kad veiksmo laikas pasikeitė.
-Kas gerai, jos neužgožia vaizdo.
-Ne taip gerai - atrodo, lyg muzika užklijuota ant filmo, nėra vientisa siužeto dalis.
+Filmo metu bent keletą kartų ausis užkliuvo už nostalgiškai pažįstamų melodijų.  
+Nesu tikras, ar tos dainos tikrai iš 2003-iųjų, bet jos padėjo nepamiršti, kad veiksmo laikas pasikeitęs.  
+Kas gerai - jos neužgožia vaizdo.  
+Ne taip gerai - atrodo, lyg muzika tiesiog užklijuota ant filmo, o ne organiškai įpinta į siužetą.
 
 ## Negatyvas
 
 ### Laiko fizika
 
-Suprantu, kad kelionės laiku yra tik mokslinė fantastiką.
-Tačiau vis tiek norisi bent kažkokio mokslinio pagrindo.  
-Tačiau šiame filme laiko tėkmę naudojo taip, kaip toje scenoje buvo patogiau.
+Suprantu, kad kelionės laiku - mokslinė fantastika.  
+Tačiau vis tiek norisi bent kokio logiško pagrindo.  
+Šiame filme laiko tėkmė naudojama taip, kaip patogiau konkrečioje scenoje.
 
-Lyg ir atrodo, kad praždioj scenarijus remiasi vientisos laiko tekmės teoriją.
-Kai įvykis praeityje nepataisomai paveikia ateitį, o taip pat ir iš ateities atkeliavusį veikėją.
-Tačiau kai ši teorija scenarijui nebetinka, staiga pereinama prie daugybinių visatų.
-Dabar jau galima keisti praeitį kaip tau patinka, tavęs iš nuotraukos niekas nebeištrins.
+Pradžioje atrodo, kad scenarijus remiasi vientisos laiko tėkmės teorija:  
+kai įvykis praeityje nepataisomai veikia ateitį ir patį iš ateities atkeliavusį veikėją.  
+Tačiau kai ši teorija nebetinka, staiga pereinama prie daugybinių visatų.  
+Dabar jau galima keisti praeitį kaip nori - tavęs iš nuotraukos niekas nebeištrins.
 
-Vienintelis man kylantis paaiškinimas - laiko tėkmė šiame filme yra išsišakojanti.
-T.y., kiekvieną akimirką laikas gali pasidalinti į dvi ar daugiau atšakų, kurios tarpusavyje nebesusijusios (= lygiagrečiai egzistuojančios visatos).
-Tokiu atveju kelionė laiku atgal visada prognozuojama, bet kelionė į ateitį gaunasi kaip loterija.
+Vienintelis man kylantis paaiškinimas - laiko tėkmė šiame filme yra išsišakojanti.  
+T.y. kiekvieną akimirką laikas gali pasidalinti į dvi ar daugiau atšakų, kurios tarpusavyje nebesusijusios (= lygiagrečiai egzistuojančios visatos).  
+Tokiu atveju kelionė į praeitį yra prognozuojama, bet kelionė į ateitį tampa loterija.
 
-Dar yra ir kitų klausimų
+Dar yra ir kitų klausimų:
 
 - kaip laiko mašina paskaičiuoja milijardų kilometrų Žemės poslinkį?
-- kodėl laiku keliauja arti laiko mašinos atsidūrę žmonės su drabužiais, bet ne lentos ir kiti šalia pasitaikę daiktai
-- milžiniška rizika į praeitį prinešti mirtinų virusų (kaip COVID).
+- kodėl keliauja arti laiko mašinos esantys žmonės su drabužiais, bet ne lentos ir kiti šalia pasitaikę daiktai?
+- milžiniška rizika į praeitį prinešti mirtinų virusų (pvz., COVID).
 
-### 2. Antimaterija
+### Antimaterija
 
-Panašu, kad norint keliauti laiku tereikia tik poros nedidelių dėžių ir puslitrinės talpos su antimaterija.
-Nedidelė bėda - paauglė pasiima tėvo darbo kortelę, nueina į fizikos laboratoriją ("SONR") ir nepastebėta išsineša.
-Turbūt neverta gilintis į taip, kad realybėje laikomosantimateriją pagaminti siaubingai brangu (dešimtys trilijonų už nanogramą).
-Negana to, antimateriją išlaikyti be kontakto su materija baisiai sudėtinga.
+Panašu, kad norint keliauti laiku tereikia poros dėžių ir puslitrinės talpos su antimaterija.  
+Nedidelė bėda - paauglė pasiima tėvo darbo kortelę, nueina į fizikos laboratoriją ("SONR") ir nepastebėta ją išsineša.  
+Turbūt neverta gilintis, kad realybėje antimaterijos gamyba yra siaubingai brangi (dešimtys trilijonų už nanogramą).  
+Negana to, antimateriją išlaikyti be kontakto su materija – fiziškai ir inžineriniu požiūriu – beprotiškai sudėtinga.
 
-### 3. Praeities tikroviškumas
+### Praeities tikroviškumas
 
-Bandymas perteikti 2003-iuosius ne visai pavyko.
-Kaip darbo vakarėlis 2000 tema, bandant dirbtinai atrasti su dabartimi kontrastuojantį aprangos stilių.
-Taikliai sulėtintas ateities herojės ėjimas į mokyklą, norint parodyti patekimą į kitą epochą.
-Tačiau tą kitą epocha simbolizuoja tik zomšiniai batai, nelabai logiški karštą dieną.
-Muzika nors ir tų laikų, bet ji per artima dabartinei.
-Galima buvo ir labiau pasistengti.
+Bandymas perteikti 2003 metus ne visai pavyko.  
+Kaip darbo vakarėlis „2000-ųjų“ tema, bandant dirbtinai sukurti kontrastą su dabartimi per aprangos stilių.  
+Taikliai sulėtintas ateities herojės ėjimas į mokyklą, siekiant parodyti patekimą į kitą epochą.  
+Tačiau tą epochą simbolizuoja tik zomšiniai batai - nelabai logiški karštą dieną.  
+Muzika, nors ir tų laikų, per daug artima dabartinei.  
+Galima buvo pasistengti labiau.
 
-### 4. Vaidybos spragos
+### Vaidybos spragos
 
-Pagrindinė aktorė jau minėta, o dauguma kitų vaidmenų gana nesudėtingi, tai ten viskas pusėtina.
-Tačiau filmo blogietis suvaidintas apgailėtinai.
-Aktorius pasendintas užpurškus juodų dažų and smakro (barzda?), balsas dirbtinai pastorintas, jokios emocijos.
-O juk žmogus, prikaupęs pykčio tiek, kad dėl jo tapo žudiku, turi turėti rimtą emocinį užtaisą.
-Na bet aktoriui tai buvo neįkandama, tad dramatiškiausia turėjusi būti scena gavosi lyg degutas medaus statinėje.
+Pagrindinė aktorė jau aptarta, dauguma kitų vaidmenų - nesudėtingi, tad viskas pusėtina.  
+Tačiau filmo blogietis suvaidintas apgailėtinai.  
+Aktorius „pasendintas“ užpurškus juodų dažų ant smakro (barzda?), balsas dirbtinai pastorintas, emocijų - nulis.  
+O juk žmogus, prikaupęs tiek pykčio, kad tampa žudiku, turėtų turėti rimtą emocinį užtaisą.  
+Bet aktoriui tai buvo neįkandama, todėl dramatiškiausia turėjusi būti scena gavosi kaip degutas medaus statinėje.
 
 ## Verdiktas
 
-Į vieną filmą bandyta sutalpinti ir paaugliškus išgyvenimus, ir psichologinę dramą, ir mokslinę fantastiką.
-Ir rezultatas viskas gavosi iš bėdos Kaip desertą su trijų rūšių įdaru – gražiai supjaustyti neišeina. Bet žiūrėti galima. Ypač jaunesniems žiūrovams, kurie mato tik emocijas, o ne struktūrą.
+Į vieną filmą bandyta sutalpinti ir paaugliškus išgyvenimus, ir psichologinę dramą, ir mokslinę fantastiką.  
+Rezultatas – viskas gavosi iš bėdos.
+
+Bet žiūrėti galima. Ypač jaunesniems žiūrovams, kurie mato tik emocijas, o ne gylį.
 
 ---
 
-## ⚠️ Siužeto detalės - skaityti tik jei jau žiūrėjai
+## ⚠️ Siužeto detalės – skaityti tik jei jau žiūrėjai
 
-Didžiausias siužeto posūkis - blogietis, grįžęs iš ateities, pasirodo esąs tas pats moksliukas, padedantis pagrindinei veikėjai.
-Supykęs dėl patyčių jis sukuria laiko mašiną, grįžta ir išžudo skriaudikus.
-Kaip jau minėjau, suvaidinta nevykusiai, tad nelabai ir paaiškėja visi psichologiniai motyvai.
-O gal tiek to gylio ir tebuvo scenarijuje.
-Jaunoji blogiečio versija tik ramiu balsu pažada, kad tokiu netaps.
-O juk galėjo sukurti kažkokią vidinę kovą, ką nors.
+Didžiausias siužeto posūkis – blogietis, grįžęs iš ateities, pasirodo esąs tas pats moksliukas, padedantis pagrindinei veikėjai.  
+Supykęs dėl patyčių jis sukuria laiko mašiną, grįžta ir išžudo skriaudikus.  
+Kaip jau minėjau, suvaidinta nevykusiai, todėl neaiškūs nei psichologiniai motyvai, nei vidinė drama.  
+O gal to gylio tiesiog nebuvo scenarijuje.  
+Jaunoji blogiečio versija tik ramiu balsu pažada, kad tokiu netaps.  
+O juk buvo galima sukurti bent kažkokią vidinę kovą. Ką nors.
 
 ---
