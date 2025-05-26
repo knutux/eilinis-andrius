@@ -17,7 +17,7 @@ Negalėčiau pasakyti, kad man nepatiko.
 Norėjosi pažiūrėti, kuo viskas baigsis, o tai jau visai neblogas įvertinimas.
 Mano šuo tikrai nepadėkotų, kad dėl tos pabaigos teko atidėti vakarinį pasitrainiojimą.
 
-Trumpas verdiktas - užskaitau kaip pramoginį filmą šeimai.
+Žodžiu, užskaitau kaip pramoginį filmą šeimai.
 Bet šiek tiek ir patyrinėsiu detales, išryškindamas man kliuvusius siužeto ir logikos šleivumus.
 
 ## Pozityvas
@@ -43,7 +43,7 @@ Tipiškai netipišką moksliuką Kviną vaidinęs Griffin Gluck ("Tall Girl") ne
 Kiti aktoriai rodėsi tik epizodiškai, tad nelabai yra ką ir išskirti.
 Nebent tik vėžlį, kuris pasirodo ir ateityje, ir praeityje - jis vaidino nepriekaištingai.
 
-### Vizualika ir atmosfera
+### Bendras vaizdas
 
 Specialiesiems efektams pinigų pagailėta, bet jei pagrindinis prioritetas buvo atskleisti vidinius išgyvenimus, gal tai ir pateisinama.
 Garažinis laiko mašinos surinkimas su šviesos burbulu - paprastas, bet veikia.
@@ -59,32 +59,65 @@ Ne taip gerai - atrodo, lyg muzika užklijuota ant filmo, nėra vientisa siužet
 
 ## Negatyvas
 
-TBD
+### Laiko fizika
 
-### 1. **Laiko logika – kaip norėjo, taip padarė**
+Suprantu, kad kelionės laiku yra tik mokslinė fantastiką.
+Tačiau vis tiek norisi bent kažkokio mokslinio pagrindo.  
+Tačiau šiame filme laiko tėkmę naudojo taip, kaip toje scenoje buvo patogiau.
 
-Filmas bando naudoti ir vieną laiko liniją, ir multivisatos principą tuo pačiu metu. Veikėja pakeičia praeitį, bet pati lieka tokia pati. Grįžta į ateitį, kurioje nebuvo gimusi. Paradoksas? Taip. Tik scenarijus apsimeta, kad tai gilus pasirinkimas, ne loginė skylė.
+Lyg ir atrodo, kad praždioj scenarijus remiasi vientisos laiko tekmės teoriją.
+Kai įvykis praeityje nepataisomai paveikia ateitį, o taip pat ir iš ateities atkeliavusį veikėją.
+Tačiau kai ši teorija scenarijui nebetinka, staiga pereinama prie daugybinių visatų.
+Dabar jau galima keisti praeitį kaip tau patinka, tavęs iš nuotraukos niekas nebeištrins.
 
-### 2. **Antimaterija iš garažo**
+Vienintelis man kylantis paaiškinimas - laiko tėkmė šiame filme yra išsišakojanti.
+T.y., kiekvieną akimirką laikas gali pasidalinti į dvi ar daugiau atšakų, kurios tarpusavyje nebesusijusios (= lygiagrečiai egzistuojančios visatos).
+Tokiu atveju kelionė laiku atgal visada prognozuojama, bet kelionė į ateitį gaunasi kaip loterija.
 
-Filmas ima rimtas fizikos sąvokas (antimaterija) ir naudoja kaip siužeto kišeninį žiebtuvėlį. Paaugliams pakanka tėvo kortelės ir jie jau SONR laboratorijoje ima daleles, kurios realybėje laikomos elektromagnetiniuose spąstuose ir kainuoja milijonus. Mokslas – tik dekoracija.
+Dar yra ir kitų klausimų
 
-### 3. **Stiliaus klaidos**
+- kaip laiko mašina paskaičiuoja milijardų kilometrų Žemės poslinkį?
+- kodėl laiku keliauja arti laiko mašinos atsidūrę žmonės su drabužiais, bet ne lentos ir kiti šalia pasitaikę daiktai
+- milžiniška rizika į praeitį prinešti mirtinų virusų (kaip COVID).
 
-Bandymas perteikti 2003-iuosius – silpnas. Sulėtintas ėjimas į mokyklą, lyg būtų nusileista į kitą epochą. Bet skirtumas? Viena pora zomšinių batų, galbūt nelogiškų karštą dieną. Muzika per artima dabartinei. Jei kuri laiko disonansą – nepasikuklink.
+### 2. Antimaterija
 
-### 4. **Grimuotas skausmas**
+Panašu, kad norint keliauti laiku tereikia tik poros nedidelių dėžių ir puslitrinės talpos su antimaterija.
+Nedidelė bėda - paauglė pasiima tėvo darbo kortelę, nueina į fizikos laboratoriją ("SONR") ir nepastebėta išsineša.
+Turbūt neverta gilintis į taip, kad realybėje laikomosantimateriją pagaminti siaubingai brangu (dešimtys trilijonų už nanogramą).
+Negana to, antimateriją išlaikyti be kontakto su materija baisiai sudėtinga.
 
-Blogiukas, kuris turėjo būti buvęs gerietis, bet pavirto keršytoju, yra silpniausia dalis. Barzda, pastorintas balsas, užrašytas pyktis be emocinės jėgos. Aktorius nesugeba perteikti jokio tikro sužeistumo, o scena sugrįžimo tampa komiškai tuščia.
+### 3. Praeities tikroviškumas
 
-## Galutinis įspūdis
+Bandymas perteikti 2003-iuosius ne visai pavyko.
+Kaip darbo vakarėlis 2000 tema, bandant dirbtinai atrasti su dabartimi kontrastuojantį aprangos stilių.
+Taikliai sulėtintas ateities herojės ėjimas į mokyklą, norint parodyti patekimą į kitą epochą.
+Tačiau tą kitą epocha simbolizuoja tik zomšiniai batai, nelabai logiški karštą dieną.
+Muzika nors ir tų laikų, bet ji per artima dabartinei.
+Galima buvo ir labiau pasistengti.
 
-Filmas bando per daug: ir paaugliškas siaubas, ir psichologinė drama, ir mokslinė fantastika. Kaip desertą su trijų rūšių įdaru – gražiai supjaustyti neišeina. Bet žiūrėti galima. Ypač jaunesniems žiūrovams, kurie mato tik emocijas, o ne struktūrą.
+### 4. Vaidybos spragos
+
+Pagrindinė aktorė jau minėta, o dauguma kitų vaidmenų gana nesudėtingi, tai ten viskas pusėtina.
+Tačiau filmo blogietis suvaidintas apgailėtinai.
+Aktorius pasendintas užpurškus juodų dažų and smakro (barzda?), balsas dirbtinai pastorintas, jokios emocijos.
+O juk žmogus, prikaupęs pykčio tiek, kad dėl jo tapo žudiku, turi turėti rimtą emocinį užtaisą.
+Na bet aktoriui tai buvo neįkandama, tad dramatiškiausia turėjusi būti scena gavosi lyg degutas medaus statinėje.
+
+## Verdiktas
+
+Į vieną filmą bandyta sutalpinti ir paaugliškus išgyvenimus, ir psichologinę dramą, ir mokslinę fantastiką.
+Ir rezultatas viskas gavosi iš bėdos Kaip desertą su trijų rūšių įdaru – gražiai supjaustyti neišeina. Bet žiūrėti galima. Ypač jaunesniems žiūrovams, kurie mato tik emocijas, o ne struktūrą.
 
 ---
 
-## ⚠️ Spoiler zona – skaityti tik jei jau žiūrėjai
+## ⚠️ Siužeto detalės - skaityti tik jei jau žiūrėjai
 
-Didžiausias siužeto posūkis – blogiukas, grįžęs iš ateities, pasirodo esąs tas pats moksliukas, kuris praeityje padėjo kurti laiko mašiną. Logikos čia tiek, kiek reikia, kad scena įvyktų – ne daugiau. Per mažai priežasčių, per daug teatrališkumo. Gaila, nes galėjo būti psichologinis smūgis, bet liko kaip „Twilight“ vilkolakis su MIT diplomu.
+Didžiausias siužeto posūkis - blogietis, grįžęs iš ateities, pasirodo esąs tas pats moksliukas, padedantis pagrindinei veikėjai.
+Supykęs dėl patyčių jis sukuria laiko mašiną, grįžta ir išžudo skriaudikus.
+Kaip jau minėjau, suvaidinta nevykusiai, tad nelabai ir paaiškėja visi psichologiniai motyvai.
+O gal tiek to gylio ir tebuvo scenarijuje.
+Jaunoji blogiečio versija tik ramiu balsu pažada, kad tokiu netaps.
+O juk galėjo sukurti kažkokią vidinę kovą, ką nors.
 
 ---
