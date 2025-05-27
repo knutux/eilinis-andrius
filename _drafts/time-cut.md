@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Time Cut — pusė kelionės į niekur"
+title: "Time Cut — kaip laiko mašina siužetą gaudė"
 date: 2025-05-15 17:00:00 +0300
-categories: filmai
-description: "Netflix laiko kelionių eksperimentas, kuris netyčia ištrina pats save."
+categories: filmai kritika
+description: "Netflix bandymas grįžti į praeitį su paaugliška drama, antimaterija ir zomšiniais batais. Vienkartinis desertas be pakartojimo."
 ---
 
 Tai pirmas mano bandymas apsimesti kino kritiku, rašant trumpą neseniai pažiūrėto filmo įvertinimą. Norėjosi užfiksuoti šiek tiek atvėsusius, bet dar šiltus įspūdžius.
@@ -33,8 +33,8 @@ Nuoširdus skausmas, žmogiškos dvejonės, kai negali nuspręsti, ar rizikuoti 
 
 Liusę vaidinanti Madison Bailey, Netflix žiūrovams pažįstama iš "Outer Banks" serialo, pasirinkta taikliai.  
 Kaip ir įprasta Netflix gaminiams, ji neturėjo daug erdvės atsiskleisti.  
-Bet mėgėjo akimis man jos vaidyba pasirodė profesionali - ne pasaulinio garso talentas, bet gana įtikinama paauglė.  
-Ne ta paauglė, kuri bailiai prie visų taikosi, o tokia, kuri nebijo pakovoti už save ir kitus, net jei tai gali būti pavojinga.
+Mėgėjo akimis - nėra kur prikibti, darbas atliktas įtikinamai, siužetui netrukdo.
+Ne ta paauglė, kuri bailiai prie visų taikosi, o tokia, kuri nebijo pakovoti už save ir kitus - net jei tai gali būti pavojinga.
 
 ### Antraplaniai personažai
 
@@ -53,9 +53,9 @@ Turbūt taip bandyta parodyti laikmečio skirtumus - apie tai plačiau šiek tie
 ### Garso takelis
 
 Filmo metu bent keletą kartų ausis užkliuvo už nostalgiškai pažįstamų melodijų.  
-Nesu tikras, ar tos dainos tikrai iš 2003-iųjų, bet jos padėjo nepamiršti, kad veiksmo laikas pasikeitęs.  
-Kas gerai - jos neužgožia vaizdo.  
-Ne taip gerai - atrodo, lyg muzika tiesiog užklijuota ant filmo, o ne organiškai įpinta į siužetą.
+Nesu tikras, ar tos dainos tikrai iš 2003-iųjų, bet jų skambesys pakankamai artimas laikmečiui.
+Tai gerai - jos neužgožia vaizdo.  
+Ne taip gerai - muzika ir siužetas nėra organiškai persipynę. Lyg bulvinius blynus užsigertum „Coca-Cola“ – lyg ir įmanoma, bet mintis nekiltų vartoti tokį derinį.
 
 ## Negatyvas
 
@@ -80,6 +80,15 @@ Dar yra ir kitų klausimų:
 - kodėl keliauja arti laiko mašinos esantys žmonės su drabužiais, bet ne lentos ir kiti šalia pasitaikę daiktai?
 - milžiniška rizika į praeitį prinešti mirtinų virusų (pvz., COVID).
 
+### Manipuliavimas ateitimi
+
+Nors sprendimai keisti praeitį turėtų būti morališkai sunkūs, filme jie priimami lengvai.
+„Tik man nesakyk, nes žinojimas pakeis ateitį“ – ir kitą akimirką jau bėgi užkirsti kelią žudynėms.
+„Juk tai mano draugė“ – tad reikia gelbėti, net jei dėl to sugrius pasaulis.
+
+Tiesa, bandyta vystyti temą apie pagrindinės herojės dilemą – gelbėti sesę ir taip ištrinti save iš istorijos.
+Bet šios dramos užsklanda nuleidžiama nespėjus jos net pakelti.
+
 ### Antimaterija
 
 Panašu, kad norint keliauti laiku tereikia poros dėžių ir puslitrinės talpos su antimaterija.  
@@ -96,30 +105,36 @@ Tačiau tą epochą simbolizuoja tik zomšiniai batai - nelabai logiški karšt�
 Muzika, nors ir tų laikų, per daug artima dabartinei.  
 Galima buvo pasistengti labiau.
 
-### Vaidybos spragos
+### Blogietis
 
-Pagrindinė aktorė jau aptarta, dauguma kitų vaidmenų - nesudėtingi, tad viskas pusėtina.  
-Tačiau filmo blogietis suvaidintas apgailėtinai.  
-Aktorius „pasendintas“ užpurškus juodų dažų ant smakro (barzda?), balsas dirbtinai pastorintas, emocijų - nulis.  
-O juk žmogus, prikaupęs tiek pykčio, kad tampa žudiku, turėtų turėti rimtą emocinį užtaisą.  
-Bet aktoriui tai buvo neįkandama, todėl dramatiškiausia turėjusi būti scena gavosi kaip degutas medaus statinėje.
+Pagrindinė aktorė jau aptarta, dauguma kitų vaidmenų - paviršutiniški, be įtampos ar gylio.
+Tinkamas fonas, nepridedantis vertės.
+
+O štai su blogiečiu nepasisekė.
+Nei vaidmens atlikimas, nei siužetinis sprendimas.
+
+**Vaidyba silpna**. Aktoriui nepavyksta perteikti jokio emocinio svorio. Veikėjas, kuris turėtų būti vidumi sprogstanti pykčio bomba, atrodo visiškai tuščias. Nėra įtampos, nėra lūžio, nėra net rimto žvilgsnio. Kulminacija, kuri turėjo apakinti, net nesumirksi.
+
+**Vaizdas – mėgėjiškas**. Pasendinimas atrodo kaip pokštas: juodi dažai ant smakro (barzda?), dirbtinai pastorintas balsas, bet jokios transformacijos – tik pigaus teatro įspūdis.
+
+**Siužetinis posūkis – išnaudotas blogiausiu būdu**. Tai galėjo būti moralinis šokas, tikros vidinės kovos vieta. Bet scena pateikta kaip tarp kitko – be įtampos, be pasekmių. Daugiau dramatizmo būtų įnešęs net vėžlys.
 
 ## Verdiktas
 
 Į vieną filmą bandyta sutalpinti ir paaugliškus išgyvenimus, ir psichologinę dramą, ir mokslinę fantastiką.  
 Rezultatas – viskas gavosi iš bėdos.
 
-Bet žiūrėti galima. Ypač jaunesniems žiūrovams, kurie mato tik emocijas, o ne gylį.
+Vieną kartą pažiūrėti galima, kol nemokamai. Grįžti į praeitį ir pakartoti nesinorėtų.
+Tikėtina, kad jaunesnei auditorijai, į kurią ir nutaikyta, visai tiks.
+Ypač tiems, kurie prasukinėja filmus į priekį.
 
 ---
 
 ## ⚠️ Siužeto detalės – skaityti tik jei jau žiūrėjai
 
-Didžiausias siužeto posūkis – blogietis, grįžęs iš ateities, pasirodo esąs tas pats moksliukas, padedantis pagrindinei veikėjai.  
-Supykęs dėl patyčių jis sukuria laiko mašiną, grįžta ir išžudo skriaudikus.  
-Kaip jau minėjau, suvaidinta nevykusiai, todėl neaiškūs nei psichologiniai motyvai, nei vidinė drama.  
-O gal to gylio tiesiog nebuvo scenarijuje.  
-Jaunoji blogiečio versija tik ramiu balsu pažada, kad tokiu netaps.  
-O juk buvo galima sukurti bent kažkokią vidinę kovą. Ką nors.
+Didžiausias siužeto posūkis – blogietis, grįžęs iš ateities, pasirodo esąs tas pats moksliukas, padedantis pagrindinei veikėjai.
+Supykęs dėl patyčių jis sukuria laiko mašiną, grįžta ir išžudo skriaudikus.
+Jaunoji jo versija tik ramiu balsu pažada, kad tokiu netaps. Jokių dvejonių, jokių realių vidinių svarstymų.
+O juk tai buvo proga.
 
 ---
