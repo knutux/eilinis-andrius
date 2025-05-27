@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Time Cut — kaip laiko mašina siužetą gaudė"
-date: 2025-05-15 17:00:00 +0300
-categories: filmai kritika
+date: 2025-05-27 17:35:00 +0300
+categories: filmai
 description: "Netflix bandymas grįžti į praeitį su paaugliška drama, antimaterija ir zomšiniais batais. Vienkartinis desertas be pakartojimo."
 ---
 
