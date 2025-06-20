@@ -1,20 +1,50 @@
 ---
 layout: post
-title: "Magic in 8x8 Pixels"
-categories: memoir tech childhood
+title: "Jaunasis televizoriaus burtininkas"
+categories: nostalgija
 description: "A nostalgic reflection on discovering programming and wonder through a Soviet-era ZX Spectrum clone."
 ---
 
-When I was a kid growing up in the Lithuanian SSR, I had a home computer called **Santaka** — a local ZX Spectrum knock-off, built during the twilight years of the Soviet Union. It didn’t have much: no hard drive, barely any RAM, a tiny screen with green monochrome output, and a tape recorder that required you to adjust volume and tone with surgeon-like precision just to load a game. But to me, it was pure magic.
+**Kai buvau vaikas, augęs dar sovietinėje Lietuvoje, turėjau kompiuterį vardu _Santaka_.** Tai buvo lietuviškas ZX Spectrum klonas — surinktas kažkur pačiame Sąjungos pabaigos chaose.
+Jis neturėjo kietojo disko, vos kvėpuojančią RAM'ą, žalsvai juodą ekraną, ir juostinį magnetofoną, kuriame kiekvieno žaidimo įkėlimas priminė chirurginę operaciją — tenka reguliuoti garsą ir toną, laikyti kvėpavimą ir melstis, kad pavyktų.
 
-While some of my classmates saw the Santaka as a game machine — rushing to load helicopter shooters and racing games from cassettes — I was captivated by something else entirely. The blinking cursor. The BASIC prompt. The sense of control.
+Bet man tai buvo magija. Ne žaislas — vartai.
 
-My first program? A classic: `GUESS THE NUMBER`. No graphics, just text. But I had _created_ it. My computer wasn’t passively entertaining me — it was doing what I told it to. I remember wondering how my friends could overlook the wonder of writing their own logic in favor of just playing someone else's.
+---
 
-I moved from BASIC to assembly. From simple loops to direct memory access. I learned that each character on screen was just an 8x8 block of pixels. I learned how to swap two colors. I learned how to draw.
+Dauguma klasiokų tą magiją matė kitaip.
+Jiems tai buvo žaidimų dėžutė: „Helikopterių šaudyklės“, „Formulės 1“ su kasetėmis, kurios ne visada pasileisdavo.
+Aš — užstrigau ties mirksinčiu kursoriumi.
+Tuo _READY_ žodžiu.
+Tuo jausmu, kad štai – pasaulis laukia komandos.
 
-In those little green-on-black rectangles, I found something more than fun — I found a gateway into systems, into logic, into creation.
+---
 
-Looking back, the Santaka wasn’t powerful or sleek. It was a plastic and metal rebellion against technological embargo, a hacky mirror of Western tech, built by engineers working with scraps and limits. But through that fragile shell, a generation of kids like me discovered how machines think — and how we could make them think differently.
+Pirmoji mano programa? Klasika:
+`SPEK SKAICIU`.
+Be grafikos. Tik tekstas. Bet tai **aš** ją sukūriau.
+Kompiuteris manęs nelinksmino — jis manęs klausė. Ir tai buvo svaiginantis jausmas.
+Aš nesupratau, kaip mano draugai gali mieliau spaudinėti kitų parašytus žaidimus nei rašyti _savo_ logiką.
 
-Sometimes I wonder what my path would have looked like without that clunky Lithuanian computer. Maybe I’d still be here, maybe not. But I know this: that green glow was my first real taste of power, and I’ve been chasing that spark ever since.
+---
+
+Laikui bėgant perėjau nuo BASIC prie asemblerio.
+Nuo paprastų ciklų — prie atminties adresų.
+Sužinojau, kad kiekvienas simbolis ekrane yra tik 8x8 pikselių kvadratas.
+Sužinojau, kaip sukeisti dvi spalvas.
+Sužinojau, kaip _nupiešti_.
+
+Tarp tų mažų žalių kvadratėlių atradau daugiau nei pramogą — atradau **sistemų logiką, kūrybos galimybę, galią**.
+
+---
+
+Žiūrint atgal, _Santaka_ nebuvo nei galinga, nei elegantiška.
+Tai buvo plastiko ir metalo maištas prieš technologinę izoliaciją — vakarietiškos technikos veidrodinis šešėlis, sulituotas inžinierių, dirbusių su trupiniais ir kūrybiška desperacija.
+Bet pro tą trapų kevalą visa karta tokių vaikų kaip aš suprato, **kaip mąsto mašina — ir kaip priversti ją mąstyti kitaip**.
+
+---
+
+Kartais galvoju, kaip būtų atrodęs mano kelias be to gremėzdiško lietuviško kompiuterio.
+Gal ir būčiau čia, kur esu dabar.
+O gal ne.
+Bet žinau viena: tas žalias ekranas buvo pirmasis mano galios blyksnis. Ir tą kibirkštį persekioju iki šiol.
