@@ -5,6 +5,10 @@ categories: nostalgija
 description: "A nostalgic reflection on discovering programming and wonder through a Soviet-era ZX Spectrum clone."
 ---
 
+<span style="float:right">
+  <img src="/assets/Santaka.png" alt="Eilinis Andrius" width="200em" style="border-radius: 8px; margin-bottom: 1.5em;" />
+</span>
+
 **Kai buvau vaikas, augęs dar sovietinėje Lietuvoje, turėjau kompiuterį vardu _Santaka_.** Tai buvo lietuviškas ZX Spectrum klonas — surinktas kažkur pačiame Sąjungos pabaigos chaose.
 Jis neturėjo kietojo disko, vos kvėpuojančią RAM'ą, žalsvai juodą ekraną, ir juostinį magnetofoną, kuriame kiekvieno žaidimo įkėlimas priminė chirurginę operaciją — tenka reguliuoti garsą ir toną, laikyti kvėpavimą ir melstis, kad pavyktų.
 
